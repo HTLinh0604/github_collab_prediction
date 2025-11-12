@@ -4,8 +4,6 @@
 ![GitHub API](https://img.shields.io/badge/GitHub_API-Data_Source-181717?style=flat&logo=github)
 ![GraphQL](https://img.shields.io/badge/GraphQL-Querying-E10098?style=flat&logo=graphql)
 ![Python](https://img.shields.io/badge/Python-SNA_&_ML-3776AB?style=flat&logo=python)
-![Social Network Analysis](https://img.shields.io/badge/Social_Network_Analysis-Graph_Insights-00BFA6?style=flat)
-![GCN](https://img.shields.io/badge/Graph_Convolutional_Network-GCN/GAE-8A2BE2?style=flat)
 ![Graph Autoencoder](https://img.shields.io/badge/Graph_Autoencoder-Link_Prediction-9C27B0?style=flat)
 ![Link Prediction](https://img.shields.io/badge/Link_Prediction-Graph_Inference-BA68C8?style=flat)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Modeling-F9A825?style=flat&logo=tensorflow)
